@@ -1,0 +1,229 @@
+#di1
+{
+    background-color: black;
+    position: fixed;
+    top: 18%;
+    left: 30%;
+    width: 37%;
+    height: 74%;
+    border-radius: 20px;
+}
+#n7
+{
+font-size: 20px;
+width: 60px;
+padding: 12px;
+background-color: gray;
+
+position: fixed;
+left: 36%;
+top: 40%;
+}
+#n8
+{
+    font-size: 20px;
+    width: 60px;
+    padding: 12px;
+    background-color: gray;
+
+    position: fixed;
+    left: 43%;
+    top: 40%;
+
+}
+#n9
+{
+    font-size: 20px;
+    width: 60px;
+    padding: 12px;
+    background-color: gray;
+  
+    position: fixed;
+    left: 50%;
+    top: 40%;
+
+}
+#nn1
+{
+        font-size: 10px;
+        width: 60px;
+        padding-bottom: 10px;
+        background-color: gray;
+        height: 10px;
+        position: fixed;
+        left: 57%;
+        top: 35%;
+        text-align: top;
+    
+}
+#n0
+{
+    
+        font-size: 20px;
+        width: 60px;
+        padding: 12px;
+        background-color: gray;
+       
+        position: fixed;
+        left: 36%;
+        top: 77%;
+        
+}
+#n4
+{
+    font-size: 20px;
+    width: 60px;
+    padding: 12px;
+    background-color: gray;
+ 
+    position: fixed;
+    left: 36%;
+    top: 53%;
+
+}
+#n5
+{
+    font-size: 20px;
+    width: 60px;
+    padding: 12px;
+    background-color: gray;
+  
+    position: fixed;
+    left: 43%;
+    top: 53%;
+
+}
+#n6
+{
+    font-size: 20px;
+    width: 60px;
+    padding: 12px;
+    background-color: gray;
+   
+    position: fixed;
+    left: 50%;
+    top: 53%;
+
+}
+#n1
+{
+    font-size: 20px;
+    width: 60px;
+    padding: 12px;
+    background-color: gray;
+ 
+    position: fixed;
+    left: 36%;
+    top: 66%;
+
+}
+#n2
+{
+    font-size: 20px;
+    width: 60px;
+    padding: 12px;
+    background-color: gray;
+
+    position: fixed;
+    left: 43%;
+    top: 66%;
+
+}
+#n3
+{
+    font-size: 20px;
+    width: 60px;
+    padding: 12px;
+    background-color: gray;
+    
+    position: fixed;
+    left: 50%;
+    top: 66%;
+
+}
+#nn
+{
+    font-size: 20px;
+    width: 60px;
+    padding: 12px;
+    background-color: white;
+  
+    position: fixed;
+    left: 57%;
+    top: 40%;
+
+}
+#nm
+{
+    font-size: 20px;
+    width: 60px;
+    padding: 12px;
+    background-color: white;
+   
+    position: fixed;
+    left: 57%;
+    top: 53%;
+
+}
+
+#head1
+{
+    background-color: white;
+    position: fixed;
+    width: 30%;
+    height: 10%;
+    top: 23%;
+    left: 33%;
+    border-radius: 10px;
+    text-align: right;
+    font-size: 30px;
+    
+}
+#mm
+{
+    font-size: 20px;
+    width: 60px;
+    padding: 12px;
+    background-color: gray;
+
+    position: fixed;
+    left: 43%;
+    top: 77%;
+}
+#nnn
+{
+    font-size: 20px;
+    width: 60px;
+    padding: 12px;
+    background-color: white;
+    
+    position: fixed;
+    left: 50%;
+    top: 77%;
+
+}
+#mm1
+{
+    
+
+    font-size: 20px;
+    width: 60px;
+    padding: 12px;
+    background-color: white;
+   
+    position: fixed;
+    left: 57%;
+    top: 66%;
+
+}
+#mm2
+{
+    font-size: 20px;
+    width: 60px;
+    padding: 12px;
+    background-color: white;
+   
+    position: fixed;
+    left: 57%;
+    top: 77%;
+}
